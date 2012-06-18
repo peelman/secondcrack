@@ -1,9 +1,5 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 config.php
-=======
 .DS_Store
->>>>>>> Adding my ignore file...
-=======
-.DS_Store
->>>>>>> 4277801da70110c69a2f41e36db0808e08c5e968
+cache
+www
+engine/secondcrack-updater.pid
